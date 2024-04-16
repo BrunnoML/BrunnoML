@@ -5,14 +5,17 @@
 </h1>
 
 - 🎓 Estudante de Sistemas de Informação
-- 🧠 Conhecimento em HTML, CSS, Javascript, Python e Canva;
+- 🧠 Conhecimento em HTML, CSS, Javascript, React, Nodejs, Vuejs, Python e Canva;
 - 💜 Apaixonado por tecnologia
 
 <div>
-&nbsp;Linguagens e ferramentas:<br/>
+&nbsp;Linguagens e ferramentas que tenho conhecimento e que estou estudando:<br/>
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /> 
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />        
 </div>
