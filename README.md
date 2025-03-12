@@ -6,6 +6,7 @@
 - 🎓 Estudante de Sistemas de Informação
 - 🧠 Conhecimento em HTML, CSS, Javascript, React, Nodejs, Python, Wordpress, VSCode, GitHub, Canva, Java e Inteligência Artificial;
 - 💜 Apaixonado por tecnologia
+- 🛠️ Desenvolvendo soluções com Python e IA para facilitar o trabalho do cliente.
 
 <div>
 &nbsp;Linguagens e ferramentas que tenho conhecimento e que estou estudando:<br><br/>
@@ -18,7 +19,9 @@
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />&nbsp&nbsp
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />   &nbsp&nbsp   
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />&nbsp&nbsp
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />        
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />&nbsp&nbsp
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />&nbsp&nbsp
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" />
 </div>
 
           
