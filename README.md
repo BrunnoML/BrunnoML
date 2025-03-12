@@ -4,7 +4,7 @@
 </h1>
 
 - 🎓 Estudante de Sistemas de Informação
-- 🧠 Conhecimento em HTML, CSS, Javascript, React, Nodejs, Python, Wordpress, VSCode, GitHub e Canva;
+- 🧠 Conhecimento em HTML, CSS, Javascript, React, Nodejs, Python, Wordpress, VSCode, GitHub, Canva, Java e Inteligência Artificial;
 - 💜 Apaixonado por tecnologia
 
 <div>
