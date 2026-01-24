@@ -3,14 +3,14 @@
 </h1>
 
 <p align="center">
-Desenvolvedor e Analista de Dados com atuação em soluções analíticas, automação e Inteligência Artificial aplicada.
+Analista de Dados com atuação em soluções analíticas, automação e Inteligência Artificial aplicada.
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-- 📊 **Desenvolvedor e Analista de Dados**, com foco em apoio à tomada de decisão
+- 📊 **Analista de Dados**, com foco em apoio à tomada de decisão
 - 🐍 Atuação central com **Python**, automação e análise de dados
 - 📈 Desenvolvimento de **dashboards analíticos** e visualizações estratégicas
 - 🤖 Interesse e aplicação prática de **IA aplicada a contextos reais**
